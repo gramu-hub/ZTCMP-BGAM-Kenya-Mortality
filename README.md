@@ -29,7 +29,7 @@ Population:
 
 Both files were combined in Excel and values multiplied by 1,000 to
 convert from thousands to persons, producing Data.xlsx.
-STEP_1.R reads Data.xlsx and produces mortality_long.csv and
+step1_data_preparation.R reads Data.xlsx and produces mortality_long.csv and
 mortality_long.rds (7,474 age-year cells, Kenya 1950-2023).
 
 How to Run
